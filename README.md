@@ -1,3 +1,3 @@
 # hello-world
-Getting to know GitHub\n
+Getting to know GitHub
 I'm learning to work with GitHub
